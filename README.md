@@ -2,6 +2,7 @@
 
 👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a love for “open-source projects”, “Java development”, and “web development”.
 
+<!--
 ### 🔭 Current Projects
 - **Hotel-Reservation-System**: A Hotel Reservation System that allows users to book rooms, manage reservations, and handle payments. This project involves creating a user-friendly interface, managing databases, and implementing various functionalities like room availability checks, booking confirmations, and payment processing.
 
@@ -15,6 +16,7 @@
 - Selenium
 - Cucumber
 - TestNG
+-->
   
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,11 +33,12 @@
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mohalkar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mohalkar_rushi) 
-
+<!--
 ### ⚡ Fun Fact
 - 404 Not Found
+-->
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
