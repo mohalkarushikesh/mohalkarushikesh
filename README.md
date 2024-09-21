@@ -18,7 +18,7 @@
   
 ### 📫 How to Reach Me
 - Email: rushikeshmohalkar2001@gmail.com
-- LinkedIn: Rushikesh Mohalkar
+- LinkedIn: @rushikesh-mohalkar
 - Twitter: @mohalkar_rushi
 
 ### ⚡ Fun Fact
