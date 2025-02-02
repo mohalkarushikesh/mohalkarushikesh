@@ -6,7 +6,7 @@
 🌱 I’m currently learning about llms 
 👯 I’m looking to collaborate on open-source projects, innovative tech solutions
 💬 Ask me about Java
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mohalkar/)
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)
 ⚡ Fun fact: I love hiking and photography
 
 <!--
