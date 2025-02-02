@@ -1,5 +1,5 @@
 ## About Me
-
+```
 👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in web development, machine learning, open-source projects. I love to explore new technologies and continuously improve my skills.
 
 🔭 I’m currently working on Zomato-clone
@@ -8,7 +8,7 @@
 💬 Ask me about Java
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)
 ⚡ Fun fact: I love hiking and photography
-
+```
 <!--
 ### 🔭 Current Projects
 - **Hotel-Reservation-System**: A Hotel Reservation System that allows users to book rooms, manage reservations, and handle payments. This project involves creating a user-friendly interface, managing databases, and implementing various functionalities like room availability checks, booking confirmations, and payment processing.
