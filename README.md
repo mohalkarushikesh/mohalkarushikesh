@@ -1,6 +1,13 @@
 ## About Me
 
-👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a love for “open-source projects”, “Java development”, and “web development”.
+👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in web development, machine learning, open-source projects. I love to explore new technologies and continuously improve my skills.
+
+🔭 I’m currently working on Zomato-clone
+🌱 I’m currently learning about llms 
+👯 I’m looking to collaborate on open-source projects, innovative tech solutions
+💬 Ask me about Java
+📫 How to reach me: https://www.linkedin.com/in/rushikesh-mohalkar/
+⚡ Fun fact: I love hiking and photography
 
 <!--
 ### 🔭 Current Projects
