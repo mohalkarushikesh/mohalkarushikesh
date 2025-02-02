@@ -6,7 +6,7 @@
 🌱 I’m currently learning about llms 
 👯 I’m looking to collaborate on open-source projects, innovative tech solutions
 💬 Ask me about Java
-📫 How to reach me: https://www.linkedin.com/in/rushikesh-mohalkar/
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mohalkar/)
 ⚡ Fun fact: I love hiking and photography
 
 <!--
@@ -33,11 +33,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalkarushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<!---
 [![](https://visitcount.itsvg.in/api?id=mohalkarushikesh&icon=0&color=0)](https://visitcount.itsvg.in)  
 ### 📫 How to Reach Me
 - Email: rushikeshmohalkar2001@gmail.com
-  
+-->  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mohalkar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mohalkar_rushi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohalkarushikesh/) 
 <!--
