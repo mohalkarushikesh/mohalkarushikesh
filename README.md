@@ -1,13 +1,15 @@
+# Rushikesh Mohalkar
+
 ## About Me
 
 👋 Hi there! I’m Rushikesh Mohalkar, an avid software developer with a deep fascination for LLMs, cutting-edge machine learning techniques, and thriving in the open-source community. I'm constantly driven by the desire to innovate, explore new technologies, and expand my skill set to stay at the forefront of the tech world.
 
 🔭 I’m currently working on Sentiment Analyzer  
-🌱 I’m currently diving deep into LLMs, data structures & algorithms (DSA), and advanced machine learning techniques  
-👯 I’m looking to collaborate on open-source projects and innovative tech solutions  
-💬 Ask me about Java, Python, machine learning
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)  
-⚡ Fun fact: I love hiking and photography
+🌱 Enthusiastically diving deep into LLMs, data structures & algorithms (DSA), and advanced machine learning techniques  
+👯 Eager to collaborate on open-source projects and pioneering tech solutions  
+💬 Always excited to discuss Java, Python, machine learning, and AI  
+📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)  
+⚡ Fun fact: I love hiking and capturing the beauty of nature through photography
 
 ### 🔭 Current Projects
 - **TextWiz**: A versatile text processing tool for extracting, analyzing, and visualizing text data.
@@ -43,7 +45,6 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
 
-  
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-%230db7ed.svg?style=for-the-badge&logo=Cucumber&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-C71A36?style=for-the-badge&logo=TestNG&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -69,13 +70,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-0593CE?style=for-the-badge&logo=TestNG&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-0593CE?style=
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
