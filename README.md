@@ -1,29 +1,47 @@
 ## About Me
 ```
-👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in web development, machine learning, open-source projects. I love to explore new technologies and continuously improve my skills.
+👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in LLMs, machine learning, and open-source projects. I love to explore new technologies and continuously improve my skills.
 
-🔭 I’m currently working on Zomato-clone
-🌱 I’m currently learning about llms 
-👯 I’m looking to collaborate on open-source projects, innovative tech solutions
-💬 Ask me about Java
+🔭 I’m currently working on Sentiment Analyzer
+🌱 I’m currently diving deep into LLMs, data structures & algorithms (DSA), and advanced machine learning techniques
+👯 I’m looking to collaborate on open-source projects and innovative tech solutions
+💬 Ask me about Java, Python, machine learning, and AI
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)
 ⚡ Fun fact: I love hiking and photography
 ```
-<!--
 ### 🔭 Current Projects
-- **Hotel-Reservation-System**: A Hotel Reservation System that allows users to book rooms, manage reservations, and handle payments. This project involves creating a user-friendly interface, managing databases, and implementing various functionalities like room availability checks, booking confirmations, and payment processing.
+- **TextWiz**: A versatile text processing tool for extracting, analyzing, and visualizing text data.
+- **ConvoBot (Vortex-AI)**: An advanced conversational AI capable of engaging in meaningful and contextually aware dialogues.
+- **Sentiment Analyzer**: A project aimed at understanding and classifying sentiments in text data using state-of-the-art machine learning techniques.
 
 ### 🌱 Learning
-- Currently diving into “React”, “DSA”, and "Spring Boot".
-- Exploring “Java development”.
+- Currently diving into **LLMs**, **DSA**, and **advanced machine learning algorithms**.
+- Exploring the **applications of LLMs in various domains** such as natural language understanding and generation.
 
 ### 💬 Ask Me About
 - Java
 - Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Transformers
+- Fine-tuning Models
+- Data Analysis
+- Neural Networks
 - Selenium
 - Cucumber
 - TestNG
--->
+
+### 🛠 Skills
+- **Programming Languages**: Java, Python, JavaScript
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
+- **Deep Learning**: LLMs, Neural Networks, CNNs, RNNs, Transformers
+- **Natural Language Processing**: Text Classification, Sentiment Analysis, Language Modeling, NLTK, SpaCy
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Web Development**: HTML, CSS, JavaScript, React
+- **Automation**: Selenium, Cucumber, TestNG, Jenkins
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
   
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-%230db7ed.svg?style=for-the-badge&logo=Cucumber&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-C71A36?style=for-the-badge&logo=TestNG&logoColor=white)
