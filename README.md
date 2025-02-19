@@ -1,93 +1,27 @@
-# Rushikesh Mohalkar
+# Hello, I'm Rushikesh Mohalkar 👋
 
 ## About Me
+I am a Software Engineer based in Pune. I have a passion for language models (LLMs) and love to work on LLM models. 
 
-👋 Hi there! I’m Rushikesh Mohalkar, an avid software developer with a deep fascination for LLMs, cutting-edge machine learning techniques, and thriving in the open-source community. I'm constantly driven by the desire to innovate, explore new technologies, and expand my skill set to stay at the forefront of the tech world.
+- 💼 Currently working at Cognizant
+- 🌱 Currently learning more about LLMs
+- 📫 How to reach me: [rushikeshmohalkar2001@gmail.com](mailto:rushikeshmohalkar2001@gmail.com)
+- 💬 Ask me about: LLMs, Java, Python
+- ⚡ Fun fact: I can spend hours debugging code, but I still can't figure out how to properly fold a fitted sheet! 😅
 
-🔭 I’m currently working on Sentiment Analyzer  
-🌱 Enthusiastically diving deep into LLMs, data structures & algorithms (DSA), and advanced machine learning techniques  
-👯 Eager to collaborate on open-source projects and pioneering tech solutions  
-💬 Always excited to discuss Java, Python, machine learning, and AI  
-📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)  
-⚡ Fun fact: I love hiking and capturing the beauty of nature through photography
+## Skills
+- **Languages:** Python, Java
+- **Frameworks:** (Feel free to add any frameworks you work with here)
+- **Tools:** Git, GitHub, Selenium, TestNG, Cucumber
 
-### 🔭 Current Projects
-- **TextWiz**: A versatile text processing tool for extracting, analyzing, and visualizing text data.
-- **ConvoBot (Vortex-AI)**: An advanced conversational AI capable of engaging in meaningful and contextually aware dialogues.
-- **Sentiment Analyzer**: A project aimed at understanding and classifying sentiments in text data using state-of-the-art machine learning techniques.
+## Projects
+Here are some of my notable projects:
 
-### 🌱 Learning
-- Currently diving into **LLMs**, **DSA**, and **advanced machine learning algorithms**.
-- Exploring the **applications of LLMs in various domains** such as natural language understanding and generation.
+1. **TextWiz** - A powerful text manipulation tool that allows users to perform various operations on text, such as summarization, translation, and sentiment analysis.
+2. **ConvoBot-Vortex-AI** - An intelligent chatbot designed to handle customer service queries, leveraging advanced natural language processing techniques.
+3. **Sentiment Analyzer** - A tool that analyzes text data to determine the sentiment expressed, whether it's positive, negative, or neutral.
 
-### 💬 Ask Me About
-- Java
-- Python
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Transformers
-- Fine-tuning Models
-- Data Analysis
-- Neural Networks
-- Selenium
-- Cucumber
-- TestNG
-
-### 🛠 Skills
-- **Programming Languages**: Java, Python, JavaScript
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
-- **Deep Learning**: LLMs, Neural Networks, CNNs, RNNs, Transformers
-- **Natural Language Processing**: Text Classification, Sentiment Analysis, Language Modeling, NLTK, SpaCy
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Automation**: Selenium, Cucumber, TestNG, Jenkins
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
-
-### 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-%230db7ed.svg?style=for-the-badge&logo=Cucumber&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-C71A36?style=for-the-badge&logo=TestNG&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%2300C7B7.svg?style=for-the-badge&logo=Neural%20Networks&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFB6C1?style=for-the-badge&logo=Transformers&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-6495ED?style=for-the-badge&logo=CNNs&logoColor=white)
-![RNNs](https://img.shields.io/badge/RNNs-32CD32?style=for-the-badge&logo=RNNs&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-85BF4C?style=for-the-badge&logo=NLTK&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=SpaCy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-00758F?style=for-the-badge&logo=Seaborn&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-0593CE?style=
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalkarushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mohalkar/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mohalkar_rushi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohalkarushikesh/) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
+## Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mohalkrushikesh)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mohalkarushikesh)
