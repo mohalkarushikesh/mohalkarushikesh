@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Mohalkar</h1>
-<h3 align="center">I am a Software Engineer based in Pune. I have a passion for language models (LLMs) and love to work on LLM models. </h3>
+<h3 align="center">I am a Software Engineer. I have a passion for language models (LLMs) and love to work on LLM models. </h3>
 
 - 💼 Currently working at Cognizant
 - 🌱 Currently learning more about LLMs
