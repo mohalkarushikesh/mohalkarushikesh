@@ -1,11 +1,11 @@
 ## About Me
 
-👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in LLMs, machine learning, and open-source projects. I love to explore new technologies and continuously improve my skills.
+👋 Hi there! I’m Rushikesh Mohalkar, an avid software developer with a deep fascination for LLMs, cutting-edge machine learning techniques, and thriving in the open-source community. I'm constantly driven by the desire to innovate, explore new technologies, and expand my skill set to stay at the forefront of the tech world.
 
 🔭 I’m currently working on Sentiment Analyzer  
 🌱 I’m currently diving deep into LLMs, data structures & algorithms (DSA), and advanced machine learning techniques  
 👯 I’m looking to collaborate on open-source projects and innovative tech solutions  
-💬 Ask me about Java, Python, machine learning, and AI  
+💬 Ask me about Java, Python, machine learning
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)  
 ⚡ Fun fact: I love hiking and photography
 
@@ -22,22 +22,26 @@
 - Java
 - Python
 - Machine Learning
+<!--
 - Deep Learning
 - Natural Language Processing (NLP)
 - Transformers
 - Fine-tuning Models
 - Data Analysis
 - Neural Networks
+-->
 - Selenium
 - Cucumber
 - TestNG
 
 ### 🛠 Skills
 - **Programming Languages**: Java, Python, JavaScript
+- <!--
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
 - **Deep Learning**: LLMs, Neural Networks, CNNs, RNNs, Transformers
 - **Natural Language Processing**: Text Classification, Sentiment Analysis, Language Modeling, NLTK, SpaCy
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+-->
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Automation**: Selenium, Cucumber, TestNG, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
