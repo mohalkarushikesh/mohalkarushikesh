@@ -76,9 +76,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-```
-
-You can add these badges to your README.md file to showcase your skills visually. Let me know if you need any further adjustments or additions!
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
