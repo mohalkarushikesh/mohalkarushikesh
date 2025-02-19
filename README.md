@@ -3,8 +3,6 @@
 
 - 💼 Currently working at Cognizant
 - 🌱 Currently learning more about LLMs
-- 📫 How to reach me: [rushikeshmohalkar2001@gmail.com](mailto:rushikeshmohalkar2001@gmail.com)
-- 💬 Ask me about: LLMs, Java, Python
 - ⚡ Fun fact: I can spend hours debugging code, but I still can't figure out how to properly fold a fitted sheet! 😅
 
 ## Projects
