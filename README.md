@@ -22,26 +22,22 @@
 - Java
 - Python
 - Machine Learning
-<!--
 - Deep Learning
 - Natural Language Processing (NLP)
 - Transformers
 - Fine-tuning Models
 - Data Analysis
 - Neural Networks
--->
 - Selenium
 - Cucumber
 - TestNG
 
 ### 🛠 Skills
 - **Programming Languages**: Java, Python, JavaScript
-- <!--
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Keras
 - **Deep Learning**: LLMs, Neural Networks, CNNs, RNNs, Transformers
 - **Natural Language Processing**: Text Classification, Sentiment Analysis, Language Modeling, NLTK, SpaCy
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
--->
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Automation**: Selenium, Cucumber, TestNG, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
