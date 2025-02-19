@@ -33,4 +33,3 @@ Here are some of my notable projects:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&locale=en" alt="mohalkarushikesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&" alt="mohalkarushikesh" /></p>
