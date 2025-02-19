@@ -1,5 +1,5 @@
 ## About Me
-```
+
 👋 Hi there! I’m Rushikesh Mohalkar, a passionate software developer with a keen interest in LLMs, machine learning, and open-source projects. I love to explore new technologies and continuously improve my skills.
 
 🔭 I’m currently working on Sentiment Analyzer
@@ -8,7 +8,7 @@
 💬 Ask me about Java, Python, machine learning, and AI
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-mohalkar/)
 ⚡ Fun fact: I love hiking and photography
-```
+
 ### 🔭 Current Projects
 - **TextWiz**: A versatile text processing tool for extracting, analyzing, and visualizing text data.
 - **ConvoBot (Vortex-AI)**: An advanced conversational AI capable of engaging in meaningful and contextually aware dialogues.
