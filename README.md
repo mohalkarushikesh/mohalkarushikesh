@@ -42,9 +42,9 @@
 - **Automation**: Selenium, Cucumber, TestNG, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
-```
+
   
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-FF6C37?style=for-the-badge&logo=Selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-%230db7ed.svg?style=for-the-badge&logo=Cucumber&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-C71A36?style=for-the-badge&logo=TestNG&logoColor=white)
 
 # 📊 GitHub Stats:
