@@ -8,9 +8,9 @@
 ## Projects
 Here are some of my notable projects:
 
-1. **TextWiz** - A powerful text manipulation tool that allows users to perform various operations on text, such as summarization, translation, and sentiment analysis.
-2. **ConvoBot-Vortex-AI** - An intelligent chatbot designed to handle customer service queries, leveraging advanced natural language processing techniques.
-3. **Sentiment Analyzer** - A tool that analyzes text data to determine the sentiment expressed, whether it's positive, negative, or neutral.
+1. **SummarizeX** is a web-based tool for summarizing text using Hugging Face Transformers. Upload a CSV file or enter text, choose a summarization model, and get concise summaries displayed on the same page. Download the results if needed.
+3. **ConvoBot-Vortex-AI** - An intelligent chatbot designed to handle customer service queries, leveraging advanced natural language processing techniques.
+4. **Sentiment Analyzer** - A tool that analyzes text data to determine the sentiment expressed, whether it's positive, negative, or neutral.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohalkarushikesh&label=Profile%20views&color=0e75b6&style=flat" alt="mohalkarushikesh" /> </p>
 
