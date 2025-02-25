@@ -7,7 +7,9 @@
 
 ## Projects
 Here are some of my notable projects:
-1. **SummarizeX** : SummarizeX is a web-based application for text summarization using the Hugging Face Transformers library. Users can either upload a CSV file or enter text directly on the webpage to get the summarized text. The summarized text is displayed on the same webpage, and users can also download the summarized texts if a file is uploaded.
+
+1. **ChatterBot-QA-SA** : ChatterBot is a simple chatbot built using Flask and the Hugging Face Transformers library. It uses the DistilBERT model to answer questions based on a given context and can also perform sentiment analysis on user input.
+2. **SummarizeX** : SummarizeX is a web-based application for text summarization using the Hugging Face Transformers library. Users can either upload a CSV file or enter text directly on the webpage to get the summarized text. The summarized text is displayed on the same webpage, and users can also download the summarized texts if a file is uploaded.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohalkarushikesh&label=Profile%20views&color=0e75b6&style=flat" alt="mohalkarushikesh" /> </p>
