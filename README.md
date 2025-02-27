@@ -10,6 +10,7 @@ Here are some of my notable projects:
 
 1. **ChatterBot-QA-SA** : ChatterBot is designed to provide answers to questions based on the provided context and analyze the sentiment of user inputs. It leverages the DistilBERT model from Hugging Face to perform question-answering tasks and the sentiment-analysis pipeline to determine the sentiment of user inputs. The project includes a simple web interface for interacting with the chatbot.
 2. **SummarizeX** : SummarizeX is a web-based application for text summarization using the Hugging Face Transformers library. Users can either upload a CSV file or enter text directly on the webpage to get the summarized text. The summarized text is displayed on the same webpage, and users can also download the summarized texts if a file is uploaded.
+3. **TextWiz**: TextWiz is a simple Language Model (LLM) project built using the Hugging Face Transformers library. It leverages pre-trained models like GPT-2 for text generation, fine-tuning, and interaction. TextWiz enables you to generate contextually relevant text responses, fine-tune the model on your own dataset, and deploy it for various NLP applications.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohalkarushikesh&label=Profile%20views&color=0e75b6&style=flat" alt="mohalkarushikesh" /> </p>
