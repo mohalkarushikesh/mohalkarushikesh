@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Mohalkar</h1>
 <h3 align="center">I am a Software Engineer. I have a passion for language models (LLMs) and love to work on LLM models. </h3>
 
-- 💼 Currently working at Cognizant
-- 🌱 Currently learning more about LLMs
-- ⚡ Fun fact: I can spend hours debugging code, but I still can't figure out how to properly fold a fitted sheet! 😅
+
+## 🚀 About Me
+- 💼 **Professionally**: I’m currently working at *Cognizant*, contributing to innovative solutions and sharpening my technical expertise every day.
+- 🌱 **Learning Journey**: I’m diving deep into the fascinating world of **Machine Learning** and continuously expanding my skill set in **Python**.
+- 👯 **Collaboration Goals**: I'm eager to collaborate on **Machine Learning** projects that push the boundaries of innovation and make a difference.
+- 🧠 **Expertise**: Passionate about building efficient solutions, I thrive on problem-solving, especially when it comes to coding in Python.
+- 🎯 **Goals for 2025**:
+  - Work on at least 5 impactful ML projects.
+  - Contribute to open-source projects and share my learnings with the community.
+  - Master advanced algorithms and deep learning concepts.
+- 💬 **Ask Me About**: Python, data preprocessing, model evaluation, and the occasional life hack for debugging!
+- ⚡ **Fun Fact**: I can spend hours debugging code, but folding a fitted sheet? That's a whole different level of complexity! 😅
+- 🌟 **Beyond Work**: When I’m not in front of a screen, I enjoy:
+  - 🌄 **Exploring nature**: Hiking and traveling to scenic places.
+  - 🎮 **Gaming**: Unwinding with a good game after a long day.
+  - 📖 **Reading**: Devouring books on tech, philosophy, and science fiction.
 
 ## Projects
 Here are some of my notable projects:
