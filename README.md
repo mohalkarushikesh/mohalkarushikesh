@@ -81,6 +81,9 @@ I enjoy building projects that blend creativity and technical expertise.
   <a href="https://linkedin.com/in/rushikesh-mohalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-mohalkar" height="30" width="40" /></a>
   <a href="https://instagram.com/mohalkarushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohalkarushikesh" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@mohalkarushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohalkarushikesh" height="30" width="40" /></a>
+
+  <a href="https://www.twitter.com/@mohalkarushikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohalkarushikesh" height="30" width="40" /></a>
+  
   <a href="https://twitter.com/mohalkrushikesh" target="blank"><img src="https://img.shields.io/twitter/follow/mohalkrushikesh?logo=twitter&style=for-the-badge" alt="mohalkrushikesh" /></a> 
 </p>
 
