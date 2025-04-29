@@ -15,14 +15,6 @@ I enjoy building projects that blend creativity and technical expertise.
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohalkarushikesh&show_icons=true&locale=en&layout=compact" alt="mohalkarushikesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&locale=en" alt="mohalkarushikesh" /></p>
-
----
-
 ## 🏆 Featured Projects
 
 - **[ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)**: A chatbot using DistilBERT for question answering and sentiment analysis, with a simple web interface for user interaction.
@@ -46,6 +38,14 @@ I enjoy building projects that blend creativity and technical expertise.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohalkarushikesh" alt="mohalkarushikesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mohalkrushikesh" target="blank"><img src="https://img.shields.io/twitter/follow/mohalkrushikesh?logo=twitter&style=for-the-badge" alt="mohalkrushikesh" /></a> </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohalkarushikesh&show_icons=true&locale=en&layout=compact" alt="mohalkarushikesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&locale=en" alt="mohalkarushikesh" /></p>
 
 ---
 
