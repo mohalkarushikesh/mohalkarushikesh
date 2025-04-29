@@ -9,7 +9,7 @@ I enjoy building projects that blend creativity and technical expertise.
 
 - 🌱 Currently exploring **Neural Networks**  
 - 💼 **Building ML models**  
-- 🎓 **B.E. in Electronics and Telecommunication Engineering**  
+- 🎓 B.E. in Electronics and Telecommunication Engineering
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:your-email@example.com)  
 - ⚡ Fun fact: I love experimenting with new datasets in my free time.
 
