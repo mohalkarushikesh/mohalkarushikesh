@@ -1,64 +1,23 @@
-# Hi, I'm Rushikesh Mohalkar
+# Hi, I'm Rushikesh Mohalkar 
 
-Welcome to my GitHub!  
-I'm a **Machine Learning Enthusiast** passionate about transforming ideas into impactful AI and Data Science solutions. I love building projects that merge innovation with real-world value.
+I'm a passionate Machine Learning/AI Engineer with expertise in building intelligent systems to solve real-world problems. I specialize in deep learning, natural language processing (NLP), and computer vision, with a focus on creating scalable and impactful AI solutions.
 
----
+🔭 Currently working on: A generative AI model for text-to-image synthesis using Stable Diffusion.  
+🌱 Learning: Advanced MLOps practices and large language model (LLM) fine-tuning.  
+💼 Open to: Collaborations on open-source AI projects or freelance opportunities.  
+📫 Reach me: [your-email@example.com](mailto:your-email@example.com) | [linkedin.com/in/rushikesh-mohalkar](https://linkedin.com/in/rushikesh-mohalkar) | [x.com/mohalkrushikesh](https://x.com/mohalkrushikesh) | [instagram.com/mohalkarushikesh](https://instagram.com/mohalkarushikesh) | [youtube.com/@mohalkarushikesh](https://youtube.com/@mohalkarushikesh)
 
-## 🔍 About Me
+## 🛠️ Skills
+- **Languages**: Python, R, C++, Java
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face
+- **Tools**: Git, Docker, Kubernetes, AWS, Azure
+- **Domains**: NLP, Computer Vision, Reinforcement Learning, MLOps
 
-- 🌱 Diving deeper into **Neural Networks** and advanced ML methods  
-- 💼 Experienced in designing and deploying machine learning models  
-- 🎓 Bachelor of Engineering, Electronics & Telecommunication  
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) | [Email](mailto:your-email@example.com)  
-- ⚡ Always exploring new datasets and state-of-the-art ML algorithms
-
----
-
-## 🏆 Featured Projects
-
-- **[ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)**  
-  Chatbot framework with DistilBERT for question answering and sentiment analysis—comes with a user-friendly web UI.
-
-- **[SummarizeX](https://github.com/mohalkarushikesh/SummarizeX)**  
-  Text summarization app using Hugging Face Transformers. Supports direct input and batch CSV uploads.
-
-- **[TextWiz](https://github.com/mohalkarushikesh/TextWiz)**  
-  GPT-2 based language model for custom text generation, fine-tuning, and NLP tasks.
-
-- **Ongoing:**  
-  - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – Deep learning for image recognition (TensorFlow, Python)  
-  - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive data visualization dashboard (Dash, Plotly, Python)
-
----
-
-## 🛠 My Tech Stack
-
-<p align="left">
-  <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" />
-  <img alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" />
-  <img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" />
-  <img alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" />
-  <img alt="Flask" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" width="40" height="40" />
-  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-  <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/rushikesh-mohalkar" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
-  <a href="https://twitter.com/mohalkrushikesh" target="_blank" rel="noopener noreferrer">Twitter</a> • 
-  <a href="https://instagram.com/mohalkarushikesh" target="_blank" rel="noopener noreferrer">Instagram</a> • 
-  <a href="https://www.youtube.com/@mohalkarushikesh" target="_blank" rel="noopener noreferrer">YouTube</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
-</p>
-
----
+## 📊 Comming Projects
+- **[Medical Search Engine](https://github.com/yourusername/medical-search)**: Built an intelligent search engine using NLTK and Azure Text Analytics to improve medical term retrieval.
+- **[Stock Price Prediction](https://github.com/yourusername/stock-prediction)**: Developed an AI-powered forecasting model integrating news sentiment and technical indicators using PyTorch.
+- **[Sign Language Recognition](https://github.com/yourusername/sign-language)**: Created a computer vision model using OpenCV and TensorFlow for real-time sign language detection.
 
 > *“Simplicity is the soul of efficiency.”* – Austin Freeman
+
+⭐ **Star my repos if you find them useful!** Let's connect and build the future of AI together!
