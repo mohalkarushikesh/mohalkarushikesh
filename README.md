@@ -1,34 +1,34 @@
-# 👋 Hello, I'm Rushikesh Mohalkar
+# Hi, I'm Rushikesh Mohalkar
 
-Welcome to my GitHub profile!  
-I am a **Machine Learning Enthusiast** with a strong focus on leveraging Artificial Intelligence and Data Science to build impactful solutions. I enjoy developing projects that combine innovation with practical applications.
+Welcome to my GitHub!  
+I'm a **Machine Learning Enthusiast** passionate about transforming ideas into impactful AI and Data Science solutions. I love building projects that merge innovation with real-world value.
 
 ---
 
 ## 🔍 About Me
 
-- 🌱 Currently deepening expertise in **Neural Networks** and advanced ML techniques  
-- 💼 Experienced in designing and implementing machine learning models  
-- 🎓 Bachelor of Engineering in Electronics and Telecommunication  
-- 📫 Feel free to connect: [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) | [Email](mailto:your-email@example.com)  
-- ⚡ Passionate about exploring new datasets and applying cutting-edge ML algorithms
+- 🌱 Diving deeper into **Neural Networks** and advanced ML methods  
+- 💼 Experienced in designing and deploying machine learning models  
+- 🎓 Bachelor of Engineering, Electronics & Telecommunication  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) | [Email](mailto:your-email@example.com)  
+- ⚡ Always exploring new datasets and state-of-the-art ML algorithms
 
 ---
 
-## 🏆 Selected Projects
+## 🏆 Featured Projects
 
 - **[ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)**  
-  A chatbot framework integrating DistilBERT for question answering and sentiment analysis, featuring an intuitive web interface.
+  Chatbot framework with DistilBERT for question answering and sentiment analysis—comes with a user-friendly web UI.
 
 - **[SummarizeX](https://github.com/mohalkarushikesh/SummarizeX)**  
-  A web application enabling text summarization through Hugging Face Transformers, supporting both direct input and CSV batch processing.
+  Text summarization app using Hugging Face Transformers. Supports direct input and batch CSV uploads.
 
 - **[TextWiz](https://github.com/mohalkarushikesh/TextWiz)**  
-  A GPT-2 based language model project tailored for text generation, fine-tuning, and natural language processing applications.
+  GPT-2 based language model for custom text generation, fine-tuning, and NLP tasks.
 
-- **Ongoing Projects:**  
-  - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – Deep learning model for image recognition (TensorFlow, Python)  
-  - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive data visualization dashboard (Python, Dash, Plotly)
+- **Ongoing:**  
+  - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – Deep learning for image recognition (TensorFlow, Python)  
+  - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive data visualization dashboard (Dash, Plotly, Python)
 
 ---
 
@@ -37,14 +37,13 @@ I am a **Machine Learning Enthusiast** with a strong focus on leveraging Artific
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&locale=en" alt="Rushikesh's GitHub Stats" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohalkarushikesh&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 My Tech Stack
 
 <p align="left">
   <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
