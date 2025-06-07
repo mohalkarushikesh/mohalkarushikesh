@@ -1,11 +1,19 @@
-# Hi, I'm Rushikesh Mohalkar 
+# Hello, I'm Rushikesh Mohalkar
 
+Welcome to my GitHub profile!  
 I'm a passionate Machine Learning/AI Engineer with expertise in building intelligent systems to solve real-world problems. I specialize in deep learning, natural language processing (NLP), and computer vision, with a focus on creating scalable and impactful AI solutions.
 
-🔭 Currently working on: A generative AI model for text-to-image synthesis using Stable Diffusion.  
-🌱 Learning: Advanced MLOps practices and large language model (LLM) fine-tuning.  
-💼 Open to: Collaborations on open-source AI projects or freelance opportunities.  
-📫 Reach me: [your-email@example.com](mailto:your-email@example.com) | [linkedin.com/in/rushikesh-mohalkar](https://linkedin.com/in/rushikesh-mohalkar) | [x.com/mohalkrushikesh](https://x.com/mohalkrushikesh) | [instagram.com/mohalkarushikesh](https://instagram.com/mohalkarushikesh) | [youtube.com/@mohalkarushikesh](https://youtube.com/@mohalkarushikesh)
+---
+
+## 🔍 About Me
+
+- 🌱 Currently deepening expertise in **Neural Networks** and advanced ML techniques  
+- 💼 Experienced in designing and implementing machine learning models  
+- 🎓 Bachelor of Engineering in Electronics and Telecommunication  
+- 📫 Feel free to connect: [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) | [Email](mailto:your-email@example.com)  
+- ⚡ Passionate about exploring new datasets and applying cutting-edge ML algorithms
+
+---
 
 ## 🛠️ Skills
 - **Languages**: Python, R, C++, Java
@@ -13,11 +21,35 @@ I'm a passionate Machine Learning/AI Engineer with expertise in building intelli
 - **Tools**: Git, Docker, Kubernetes, AWS, Azure
 - **Domains**: NLP, Computer Vision, Reinforcement Learning, MLOps
 
-## 📊 Comming Projects
-- **[Medical Search Engine](https://github.com/yourusername/medical-search)**: Built an intelligent search engine using NLTK and Azure Text Analytics to improve medical term retrieval.
-- **[Stock Price Prediction](https://github.com/yourusername/stock-prediction)**: Developed an AI-powered forecasting model integrating news sentiment and technical indicators using PyTorch.
-- **[Sign Language Recognition](https://github.com/yourusername/sign-language)**: Created a computer vision model using OpenCV and TensorFlow for real-time sign language detection.
+---
+
+## 🏆 Selected Projects
+
+- **[ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)**  
+  A chatbot framework integrating DistilBERT for question answering and sentiment analysis, featuring an intuitive web interface.
+
+- **[SummarizeX](https://github.com/mohalkarushikesh/SummarizeX)**  
+  A web application enabling text summarization through Hugging Face Transformers, supporting both direct input and CSV batch processing.
+
+- **[TextWiz](https://github.com/mohalkarushikesh/TextWiz)**  
+  A GPT-2 based language model project tailored for text generation, fine-tuning, and natural language processing applications.
+
+- **Ongoing Projects:**  
+  - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – Deep learning model for image recognition (TensorFlow, Python)  
+  - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive data visualization dashboard (Python, Dash, Plotly)
+  
+---
+
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/rushikesh-mohalkar" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+  <a href="https://twitter.com/mohalkrushikesh" target="_blank" rel="noopener noreferrer">Twitter</a> • 
+  <a href="https://instagram.com/mohalkarushikesh" target="_blank" rel="noopener noreferrer">Instagram</a> • 
+  <a href="https://www.youtube.com/@mohalkarushikesh" target="_blank" rel="noopener noreferrer">YouTube</a> • 
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+---
 
 > *“Simplicity is the soul of efficiency.”* – Austin Freeman
-
-⭐ **Star my repos if you find them useful!** Let's connect and build the future of AI together!
