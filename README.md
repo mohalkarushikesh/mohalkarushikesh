@@ -32,17 +32,6 @@ I'm a **Machine Learning Enthusiast** passionate about transforming ideas into i
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&locale=en" alt="Rushikesh's GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohalkarushikesh&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ## 🛠 My Tech Stack
 
 <p align="left">
