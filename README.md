@@ -16,8 +16,8 @@ I'm a passionate Machine Learning/AI Engineer with expertise in building intelli
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, R, C++, Java
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, Hugging Face
+- **Languages**: Python, C++, Java
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Hugging Face
 - **Tools**: Git, Docker, Kubernetes, AWS, Azure
 - **Domains**: NLP, Computer Vision, Reinforcement Learning, MLOps
 
