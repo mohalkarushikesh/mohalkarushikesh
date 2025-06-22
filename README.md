@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rushikesh Mohalkar
+# Hello, I'm Rushikesh 
 
 Welcome to my GitHub profile!  
 I'm a passionate Machine Learning/AI Engineer focused on building intelligent, scalable systems to solve real-world problems. My expertise lies in Deep Learning, Natural Language Processing (NLP), and Computer Vision. I love transforming complex ideas into practical, impactful AI solutions.
