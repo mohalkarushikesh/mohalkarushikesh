@@ -1,55 +1,70 @@
-# Hello, I'm Rushikesh Mohalkar
+# 👋 Hello, I'm Rushikesh Mohalkar
 
 Welcome to my GitHub profile!  
-I'm a passionate Machine Learning/AI Engineer with expertise in building intelligent systems to solve real-world problems. I specialize in deep learning, natural language processing (NLP), and computer vision, with a focus on creating scalable and impactful AI solutions.
+I'm a passionate Machine Learning/AI Engineer focused on building intelligent, scalable systems to solve real-world problems. My expertise lies in Deep Learning, Natural Language Processing (NLP), and Computer Vision. I love transforming complex ideas into practical, impactful AI solutions.
 
 ---
 
 ## 🔍 About Me
 
-- 🌱 Currently deepening expertise in **Neural Networks** and advanced ML techniques  
-- 💼 Experienced in designing and implementing machine learning models  
+- 🌱 Currently exploring **Neural Networks** and advanced ML research  
+- 💼 Experienced in developing, training, and deploying ML models  
 - 🎓 Bachelor of Engineering in Electronics and Telecommunication  
-- 📫 Feel free to connect: [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) | [Email](mailto:your-email@example.com)  
-- ⚡ Passionate about exploring new datasets and applying cutting-edge ML algorithms
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) or [Email](mailto:rushikesh.mohalkar@example.com)  
+- ⚡ Fascinated by challenging datasets and creative ML applications
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, Java
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Hugging Face
-- **Tools**: Git, Docker, Kubernetes, AWS, Azure
-- **Domains**: NLP, Computer Vision, Reinforcement Learning, MLOps
+
+**Languages**: Python, C++, Java  
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers  
+**Tools & Platforms**: Git, Docker, Kubernetes, AWS  
+**Domains**: Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, MLOps  
 
 ---
 
-## 🏆 Selected Projects
+## 🧩 Projects
 
-- **[ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)**  
-  A chatbot framework integrating DistilBERT for question answering and sentiment analysis, featuring an intuitive web interface.
+### 🔹 [ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)  
+A chatbot system powered by **DistilBERT** for question answering and sentiment analysis. Includes a sleek web interface for user interaction.
 
-- **[SummarizeX](https://github.com/mohalkarushikesh/SummarizeX)**  
-  A web application enabling text summarization through Hugging Face Transformers, supporting both direct input and CSV batch processing.
+### 🔹 [SummarizeX](https://github.com/mohalkarushikesh/SummarizeX)  
+A text summarization tool using **Hugging Face Transformers**. Supports direct input and CSV-based batch processing for extractive and abstractive summaries.
 
-- **[TextWiz](https://github.com/mohalkarushikesh/TextWiz)**  
-  A GPT-2 based language model project tailored for text generation, fine-tuning, and natural language processing applications.
+### 🔹 [TextWiz](https://github.com/mohalkarushikesh/TextWiz)  
+GPT-2 based project for **text generation and fine-tuning**, offering flexible workflows for creative NLP applications.
 
-- **Ongoing Projects:**  
-  - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – Deep learning model for image recognition (TensorFlow, Python)  
-  - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive data visualization dashboard (Python, Dash, Plotly)
-  
+### 🚧 Ongoing
+- **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – TensorFlow-powered image recognition system  
+- **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive dashboard for data exploration using Dash & Plotly
+
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
+
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohalkarushikesh&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalkarushikesh&layout=compact&theme=github_dark)
+
+---
+
+## 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohalkarushikesh&theme=onedark)
+
+---
+
+## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/rushikesh-mohalkar" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
-  <a href="https://twitter.com/mohalkrushikesh" target="_blank" rel="noopener noreferrer">Twitter</a> • 
-  <a href="https://instagram.com/mohalkarushikesh" target="_blank" rel="noopener noreferrer">Instagram</a> • 
-  <a href="https://www.youtube.com/@mohalkarushikesh" target="_blank" rel="noopener noreferrer">YouTube</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://linkedin.com/in/rushikesh-mohalkar" target="_blank">LinkedIn</a> • 
+  <a href="https://twitter.com/mohalkarushikesh" target="_blank">Twitter</a> • 
+  <a href="https://instagram.com/mohalkarushikesh" target="_blank">Instagram</a> • 
+  <a href="https://www.youtube.com/@mohalkarushikesh" target="_blank">YouTube</a> • 
+  <a href="mailto:rushikesh.mohalkar@example.com">Email</a>
 </p>
 
 ---
 
-> *“Simplicity is the soul of efficiency.”* – Austin Freeman
+> *“Simplicity is the soul of efficiency.”* — Austin Freeman
