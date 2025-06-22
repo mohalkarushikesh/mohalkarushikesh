@@ -36,6 +36,14 @@ A text summarization tool using **Hugging Face Transformers**. Supports direct i
 ### 🔹 [TextWiz](https://github.com/mohalkarushikesh/TextWiz)  
 GPT-2 based project for **text generation and fine-tuning**, offering flexible workflows for creative NLP applications.
 
+### 🎥 [Movie Recommendation System](https://github.com/mohalkarushikesh/AI-ML-Engineer-Notes/blob/main/Python-for-Data-Science-and-Machine-Learning-Bootcamp/Recommender%20System/Movie%20Recommendation%20System.ipynb)
+
+Built a simple yet powerful movie recommender using collaborative filtering (based on user ratings).  
+Includes data analysis, visualization with Seaborn, and correlation-based suggestions for similar movies like *Star Wars* or *Liar Liar*.  
+📊 Powered by: Pandas, NumPy, Matplotlib
+
+🔗 [View Notebook](https://github.com/mohalkarushikesh/AI-ML-Engineer-Notes/blob/main/Python-for-Data-Science-and-Machine-Learning-Bootcamp/Recommender%20System/Movie%20Recommendation%20System.ipynb)
+
 ### 🚧 Ongoing
 - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – TensorFlow-powered image recognition system  
 - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive dashboard for data exploration using Dash & Plotly
