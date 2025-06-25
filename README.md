@@ -19,9 +19,9 @@ I'm a passionate Machine Learning/AI Engineer focused on building intelligent, s
 
 **Languages**: Python, C++, Java  
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-**Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers  
+**Frameworks/Libraries**: TensorFlow, Keras, PyTorch, Hugging Face Transformers  
 **Tools & Platforms**: Git, Docker, Kubernetes, AWS  
-**Domains**: Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, MLOps  
+**Domains**: Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, MLOps
 
 ---
 
