@@ -37,7 +37,7 @@ A text summarization tool using **Hugging Face Transformers**. Supports direct i
 GPT-2 based project for **text generation and fine-tuning**, offering flexible workflows for creative NLP applications.
 
 ### 🔹 [Cancer Detection using CNN](https://github.com/mohalkarushikesh/Lung-Cancer-Detection-using-CNN)
-This project demonstrates how to use Convolutional Neural Networks (CNNs) for the automatic detection of lung cancer from medical images. The implementation is provided in a Jupyter notebook and leverages deep learning methods to classify images and aid in the early detection of lung cancer.
+This project demonstrates how to use **Convolutional Neural Networks (CNNs)** for the automatic detection of lung cancer from medical images. The implementation is provided in a Jupyter notebook and leverages **deep learning** methods to classify images and aid in the early detection of lung cancer.
 
 ### 🚧 Upcomming
 - **[DeepVision](https://github.com/mohalkarushikesh/deepvision)** – TensorFlow-powered image recognition system  
