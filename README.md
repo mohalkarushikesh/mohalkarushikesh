@@ -27,6 +27,9 @@ I'm a passionate Machine Learning/AI Engineer focused on building intelligent, s
 
 ## 🧩 Projects
 
+### 🔹 [Self-Driving-Car-with-PPO-RL](https://github.com/mohalkarushikesh/Self-Driving-Car-with-PPO-RL)
+A Pygame-based self-driving car simulation using Proximal Policy Optimization (PPO) for autonomous navigation. The car learns to drive on various tracks using deep reinforcement learning.
+
 ### 🔹 [ChatterBot-QA-SA](https://github.com/mohalkarushikesh/ChatterBot-QA-SA)  
 A chatbot system powered by **DistilBERT** for question answering and sentiment analysis. Includes a sleek web interface for user interaction.
 
