@@ -25,6 +25,8 @@ I'm a passionate Machine Learning/AI Engineer focused on building intelligent, s
 
 ---
 
+<!--
+
 ## 🧩 Projects
 
 ### 🔹 [Self-Driving-Car-with-PPO-RL](https://github.com/mohalkarushikesh/Self-Driving-Car-with-PPO-RL)
@@ -47,6 +49,8 @@ This project demonstrates how to use **Convolutional Neural Networks (CNNs)** fo
 - **[DataDash](https://github.com/mohalkarushikesh/datadash)** – Interactive dashboard for data exploration using Dash & Plotly
 
 ---
+
+--> 
 
 ## 📊 GitHub Stats
 
