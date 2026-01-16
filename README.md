@@ -34,8 +34,7 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 
 - 🌱 Currently diving deep into **Neural Networks** and advanced ML research  
 - 💼 Experienced in developing, training, and deploying ML models  
-- 🎓 Bachelor of Engineering in **Electronics and Telecommunication**  
-- 📫 Reach me via [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) or [Email](mailto:rushikesh.mohalkar@example.com)  
+- 🎓 Bachelor of Engineering in **Electronics and Telecommunication**   
 - ⚡ Fascinated by challenging datasets and creative ML applications  
 
 ---
@@ -62,18 +61,7 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohalkarushikesh&theme=radical" alt="Github Activity Graph" width="100%" height="10%" />
-
-
-## 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/rushikesh-mohalkar" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/mohalkarushikesh" target="_blank">Twitter</a> • 
-  <a href="https://instagram.com/mohalkarushikesh" target="_blank">Instagram</a> • 
-  <a href="https://www.youtube.com/@mohalkarushikesh" target="_blank">YouTube</a> • 
-  <a href="mailto:rushikesh.mohalkar@example.com">Email</a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohalkarushikesh&theme=radical" alt="Github Activity Graph" width="100%" height="340" />
 
 ---
 
