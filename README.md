@@ -65,7 +65,8 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="70" alt="Bash" />
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohalkarushikesh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohalkarushikesh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=dark)](https://git.io/streak-stats)
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
