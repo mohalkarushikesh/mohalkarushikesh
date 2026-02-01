@@ -41,11 +41,28 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 
 ## 🛠️ Skills
 
-**Languages**: Python, C++, Java  
-**Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-**Frameworks**: TensorFlow, Keras, PyTorch, Hugging Face Transformers  
-**Tools & Platforms**: Git, Docker, Kubernetes, AWS  
-**Domains**: NLP, Computer Vision, Reinforcement Learning, MLOps  
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="70" alt="Python" /> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="70" alt="Java" /> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="70" alt="CPP"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="70" alt="Numpy" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="70" alt="Pandas" /> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_3-4JIsx_ivTrRU-mA0jFcjLVsLzdU99TQ&s" width="70" alt="Matplotlib"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70" alt="seaborn" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" width="70" alt="Scikit-learn" />
+<img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="70" alt="TensorFlow" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" width="70" alt="PyTorch" />
+<img src="https://avatars.githubusercontent.com/u/34455048?s=200&v=4" width="70" alt="Keras" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" width="70" alt="OpenCV" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1E1D0d65PkhscNMsZCJeYtUn5SSi1Yq4UeQ&s" width="70" alt="nltk" /> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsa_s2rxUbkFzfFnkUW09-wKzvpzU2Wy8nw&s" width="70" alt="Hugging Face" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" width="70" alt="Langchain" />
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" width="70" alt="Pinecone" />
+<img src="https://docs.trychroma.com/favicon.ico" width="70" alt="Chroma" /> 
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="70" alt="Docker" />
+<img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" width="70" alt="Kubernetes" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" width="70" alt="jenkins" />
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="70" alt="AWS" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="70" alt="Linux" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="70" alt="Postman" /> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="70" alt="Fast API" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="70" alt="Bash" />
 
 ---
 
@@ -58,11 +75,9 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 
 
 ---
-
+<!--
 ## 📈 Contribution Graph
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohalkarushikesh&theme=radical" alt="Github Activity Graph" width="100%" height="340" />
-
----
+-->
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
