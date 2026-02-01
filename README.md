@@ -66,18 +66,6 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohalkarushikesh&theme=radical" alt="Profile Details" width="64%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohalkarushikesh&theme=radical" alt="Repos per Language" width="31%"/>
-</p>
-
-
----
-<!--
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohalkarushikesh&theme=radical" alt="Github Activity Graph" width="100%" height="340" />
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohalkarushikesh&theme=dark)](https://git.io/streak-stats)
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
