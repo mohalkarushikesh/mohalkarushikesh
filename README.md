@@ -65,8 +65,19 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="70" alt="Bash" />
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohalkarushikesh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=dark)](https://git.io/streak-stats)
+| 🏆 Trophies |
+| :---: |
+[![Trophies](https://github-profile-trophies.vercel.app/?username=mohalkarushikesh&theme=onedark)](https://github.com/yoshi2243/github-profile-trophies)
+
+| 🔥 Contribution Streak | 🛠️ Top Languages |
+| :---: | :---: |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=gruvbox&hide_border=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohalkarushikesh&layout=compact&theme=vue&hide_border=true) |
+
+| 📈 Overall Statistics |
+| :---: |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mohalkarushikesh&show_icons=true&theme=gruvbox&hide_border=true) |
+
+---
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
