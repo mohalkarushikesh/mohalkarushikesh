@@ -65,11 +65,20 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="70" alt="Bash" />
 
 ---
+### 📊 GitHub Activity Dashboard
 
 | 🏆 Trophies |
 | :---: |
 [![Trophies](https://github-profile-trophies.vercel.app/?username=mohalkarushikesh&theme=onedark)](https://github.com/yoshi2243/github-profile-trophies)
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohalkarushikesh&theme=nord_bright" 
+       style="width: 45%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohalkarushikesh&theme=nord_bright" 
+       style="width: 45%;" />
+</div>
+
+<!--
 | 🔥 Contribution Activity | 🛠️ Top Languages |
 | :---: | :---: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohalkarushikesh&theme=nord_bright&) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohalkarushikesh&theme=nord_bright) |
@@ -77,7 +86,7 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 | 📈 Overall Statistics |
 | :---: |
 | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mohalkarushikesh&show_icons=true&theme=gruvbox&hide_border=true) |
-
+--> 
 ---
 
 > *“Simplicity is the soul of efficiency.”* — Austin Freeman
