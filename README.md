@@ -70,9 +70,9 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 | :---: |
 [![Trophies](https://github-profile-trophies.vercel.app/?username=mohalkarushikesh&theme=onedark)](https://github.com/yoshi2243/github-profile-trophies)
 
-| 🔥 Contribution Streak | 🛠️ Top Languages |
+| 🔥 Contribution Activity | 🛠️ Top Languages |
 | :---: | :---: |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohalkarushikesh&theme=gruvbox&hide_border=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohalkarushikesh&layout=compact&theme=vue&hide_border=true) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohalkarushikesh&theme=nord_bright&) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohalkarushikesh&theme=nord_bright) |
 
 | 📈 Overall Statistics |
 | :---: |
