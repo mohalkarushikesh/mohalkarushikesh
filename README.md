@@ -54,7 +54,7 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsa_s2rxUbkFzfFnkUW09-wKzvpzU2Wy8nw&s" width="70" alt="Hugging Face" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" width="70" alt="Langchain" />
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pinecone-icon-ye23mxqezdqo34qhde01eg.png/pinecone-icon-gw5gzfji55rizxc6hfnhpa.png?_a=DATAiZAAZAA0" width="70" alt="Pinecone" />
-<img src="https://docs.trychroma.com/favicon.ico" width="70" alt="Chroma" /> 
+<img src="https://github.com/homarr-labs/dashboard-icons/blob/main/png/chroma.png" width="70" alt="Chroma" /> 
 <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="70" alt="Docker" />
 <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" width="70" alt="Kubernetes" />
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" width="70" alt="jenkins" />
@@ -65,6 +65,9 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" width="70" alt="Bash" />
 
 ---
+
+
+<!--
 ### 📊 GitHub Activity Dashboard
 
 | 🏆 Trophies |
@@ -78,7 +81,6 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
        style="width: 45%;" />
 </div>
 
-<!--
 | 🔥 Contribution Activity | 🛠️ Top Languages |
 | :---: | :---: |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohalkarushikesh&theme=nord_bright&) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohalkarushikesh&theme=nord_bright) |
@@ -86,7 +88,5 @@ I enjoy transforming complex ideas into practical, impactful AI solutions that m
 | 📈 Overall Statistics |
 | :---: |
 | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mohalkarushikesh&show_icons=true&theme=gruvbox&hide_border=true) |
---> 
----
 
-> *“Simplicity is the soul of efficiency.”* — Austin Freeman
+--> 
