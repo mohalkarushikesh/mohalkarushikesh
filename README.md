@@ -24,8 +24,8 @@
 # 👋 Hello, I'm Rushikesh  
 
 Welcome to my GitHub profile!  
-I'm an aspiring and passionate **Machine Learning / AI Engineer** focused on building intelligent, scalable systems to solve real-world problems.  
-My interests span **Deep Learning, Natural Language Processing (NLP), and Computer Vision**.  
+I'm passionate **AIML Engineer** focused on building intelligent, scalable systems to solve real-world problems.  
+My interests span **Deep Learning, Natural Language Processing (NLP) and Reinforcement Learing**.  
 I enjoy transforming complex ideas into practical, impactful AI solutions that make a difference.  
 
 ---
