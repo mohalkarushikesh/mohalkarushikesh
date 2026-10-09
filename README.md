@@ -1,6 +1,6 @@
 # Rushikesh Mohalkar
 
-**AI/ML Engineer** — Deep Learning · Natural Language Processing · Generative AI
+**AI/ML Engineer** — Deep Learning · Natural Language Processing · Generative AI · Multi-Agent Systems
 
 [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) · [X/Twitter](https://twitter.com/mohalkarushikesh) · [YouTube](https://www.youtube.com/@mohalkarushikesh)
 
@@ -8,7 +8,7 @@
 
 ## Summary
 
-AI/ML Engineer specializing in the design, training, and deployment of machine learning systems for real-world applications. Experience spans deep learning, natural language processing, reinforcement learning, and generative AI, with a focus on turning research concepts into reliable, production-ready solutions.
+AI/ML Engineer specializing in the design, training, and deployment of deep learning systems for real-world applications. Experience spans machine learning, natural language processing, agentic AI and generative AI, with a focus on turning research concepts into reliable, production-ready solutions.
 
 - Building and deploying end-to-end ML pipelines, from data to serving
 - Applied work in neural networks, NLP, and LLM-based systems
