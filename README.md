@@ -2,7 +2,7 @@
 
 **AI/ML Engineer** — Deep Learning · Natural Language Processing · Generative AI · Multi-Agent Systems
 
-[LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) · [X/Twitter](https://twitter.com/mohalkarushikesh) · [YouTube](https://www.youtube.com/@mohalkarushikesh)
+[LinkedIn](https://linkedin.com/in/rushikesh-mohalkar) · [X/Twitter](https://x.com/mohalkrushikesh) · [YouTube](https://www.youtube.com/@mohalkarushikesh)
 
 ---
 
